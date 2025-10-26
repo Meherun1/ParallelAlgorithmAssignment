@@ -50,7 +50,7 @@ src/
   BankSimulation.java
 
 docs/
-  README.txt (this file)
+  README.txt 
 
 PROGRAM OUTPUT INCLUDES:
 -----------------------
@@ -63,4 +63,4 @@ PROGRAM OUTPUT INCLUDES:
 GITHUB REPOSITORY:
 ------------------
 
-Example: https://github.com/YourUsername/ParallelAlgorithmAssignment
+https://github.com/Meherun1/ParallelAlgorithmAssignment
